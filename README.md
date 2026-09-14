@@ -1,8 +1,10 @@
 # 齋藤拓也 / Takuya Saito
 
-**フロントエンドエンジニア（業務委託）** — Next.js / React / TypeScript
+**フルスタックエンジニア（業務委託）** — Next.js / React / TypeScript / Go
 
 エンジニア歴 8 年半、フロントエンド 5 年半。業務委託として複数クライアントの新規開発・リニューアルに参加しています。フルリモートで、Slack を中心に BE / デザイナー / QA とチーム開発を行っています。
+
+担当範囲はフロントエンドに閉じません。管理画面のリニューアルでは未経験だった Go に手を挙げてバックエンドまで一通り実装し、採用サイト 2 件はエンジニア一人体制で技術選定・CMS 設計・ホスティングまで担当しました。個人開発では Cloudflare Workers + D1 / KV / R2 や Supabase の RLS も自分で組んでいます。
 
 AI ツール（Claude Code / GitHub Copilot）を日常の開発に組み込み、実装だけでなくコードレビュー・リファクタリング・テスト作成にも活用しています。実装したコードは必ず AI で確認し、他の人が読んで分かるかを基準に整えてから出すようにしています。
 
@@ -21,9 +23,9 @@ Web だけでなく、macOS ネイティブ（Swift / SwiftUI）、Electron、Cl
 
 ## リンク
 
-- **[ポートフォリオ](https://my-apps-portal.saitotakuya0719.workers.dev)** — 個人開発 22 作品。Lighthouse・テストカバレッジ・脆弱性などの計測値つき
+- **[ポートフォリオ](https://my-apps-portal.saitotakuya0719.workers.dev)** — 個人開発 21 作品・テスト総数 4,420 件。Lighthouse・テストカバレッジ・脆弱性などの計測値つき
 - **[職務経歴書](https://resume.saitotakuya0719.workers.dev)** — 経歴・スキル詳細（日本語 / English）。お問い合わせもこちらから
 
 ## 主な技術
 
-`TypeScript` `Next.js` `React` `Jotai` `React Hook Form` `Tailwind CSS` `Vitest` `Three.js` `Go` `Swift` `Cloudflare Workers`
+`TypeScript` `Next.js` `React` `Go` `Vitest` `Tailwind CSS` `Three.js` `Swift` `Cloudflare Workers` `D1` `Supabase` `PostgreSQL`
